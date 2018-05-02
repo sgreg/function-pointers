@@ -1,6 +1,6 @@
 # Hackaday Function Pointers Example
 
-A generic push button handler as practical demonstration of function pointers -- see [Hackaday article ""]().
+A generic push button handler as practical demonstration of function pointers -- see Hackaday article [*Directly Executing Chunks of Memory: Function Pointers In C*](http://hackaday.com/2018/05/02/directly-executing-chunks-of-memory-function-pointers-in-c/).
 
 ## Content
 
